@@ -38,6 +38,7 @@
     "webpack": "^3.4.1"
   },
   "dependencies": {
+    "webpack": "^4.44.1",
     "constellation": "^0.2.0",
     "cordova-android": "^6.2.3",
     "cordova-browser": "^4.1.0",
